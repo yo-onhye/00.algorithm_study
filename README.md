@@ -22,7 +22,7 @@ JavaScript/Java
 ### 정렬
 
 - [K번째 수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200813_sort01)
-- 가장 큰 수
+- [가장 큰 수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200814_sort02)
 - H-Index
 
 ### 완전탐색
