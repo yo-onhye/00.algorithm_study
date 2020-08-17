@@ -39,3 +39,7 @@ JavaScript/Java
 - 네트워크
 - 단어 변환
 - 여행경로
+
+### 기타
+
+- [직사각형 별찍기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200817_star)
