@@ -43,3 +43,4 @@ JavaScript/Java
 ### 기타
 
 - [직사각형 별찍기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200817_star)
+- [가운데글자 가져오기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200818_letter)
