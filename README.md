@@ -46,3 +46,4 @@ JavaScript/Java
 - [가운데글자 가져오기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200818_letter)
 - [같은 숫자는 싫어](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200819_number)
 - [두 정수 사이의 합](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200820_sum)
+- [문자열 내 p와 y의 개수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200821_pny)
