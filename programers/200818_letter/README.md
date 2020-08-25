@@ -35,3 +35,13 @@ function solution(s) {
 // 나는 배열로 바꾸어 했는데, substring이나 charAt, slice로 많이햇다
 // 굳이 배열에 넣을 필요 없을 듯
 ```
+
+```jsx
+function solution(s) {
+	const aTemp = s.split(""),
+		nStandard = parseInt(aTemp.length / 2); // parseInt를 이용해서 정수 값 가져옴
+
+	// 3항 연산자 사용하여 코드 간소화
+	return s.split("").length % 2 == 0 ? aTemp[parseInt(aTemp.length / 2) - 1] + aTemp[parseInt(aTemp.length / 2)] : aTemp[parseInt(aTemp.length / 2)];
+}
+```
