@@ -49,3 +49,4 @@ JavaScript/Java
 - [문자열 내 p와 y의 개수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200821_pny)
 - [나누어 떨어지는 배열](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200824_dividing_array)
 - [수박수박수박수박수박수?](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200825_subak)
+- [문자열 내림차순으로 배치하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200826_descending)
