@@ -50,3 +50,4 @@ JavaScript/Java
 - [나누어 떨어지는 배열](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200824_dividing_array)
 - [수박수박수박수박수박수?](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200825_subak)
 - [문자열 내림차순으로 배치하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200826_descending)
+- [문자열 다루기 기본](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200827_string)
