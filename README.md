@@ -29,7 +29,7 @@ JavaScript/Java
 
 무식해 보여도 사실은 최고의 방법일 때가 있지요.
 
-- 모의고사
+- [모의고사](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200831_exam)
 - 소수 찾기
 - 카펫
 
