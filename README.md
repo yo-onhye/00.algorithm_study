@@ -30,7 +30,7 @@ JavaScript/Java
 무식해 보여도 사실은 최고의 방법일 때가 있지요.
 
 - [모의고사](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200831_exam)
-- 소수 찾기
+- [소수 찾기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200907_decimal)
 - 카펫
 
 ### 깊이/너비 우선 탐색(DFS/BFS)
@@ -56,7 +56,7 @@ JavaScript/Java
 - [숫자의 표현](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200902_number)
 - [문자열을 정수로 바꾸기 & 약수의 합](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200903_number)
 - [문자열 내 마음대로 정렬하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200904_sort)
-- [소수 찾기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200907_decimal)
 - [이상한 문자 만들기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200908_strange_letter)
 - [시저 암호](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200909_caesar_code)
 - [자연수 뒤집어 배열로 만들기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200910_natural_number)
+- [콜라츠 추측](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200911_collatz)
