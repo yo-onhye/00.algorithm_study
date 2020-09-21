@@ -65,3 +65,4 @@ JavaScript/Java
 - [평균 구하기 & x만큼 간격이 있는 n개의 숫자](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200916_number)
 - [2016년](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200917_2006)
 - [다음 큰 숫자](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200918_next_number)
+- [피보나치 수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200921_fibonacci)
