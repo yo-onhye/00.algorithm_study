@@ -47,6 +47,7 @@ JavaScript/Java
 - [행렬의 곱셈](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200924_array_multiple)
 - [최솟값 만들기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200925_minimum)
 - [제일 작은 수 제거하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200928_smallest_num)
+- [두 개 뽑아서 더하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200929_pick_num)
 
 ### 2단계
 
