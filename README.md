@@ -49,6 +49,7 @@ JavaScript/Java
 - [제일 작은 수 제거하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200928_smallest_num)
 - [두 개 뽑아서 더하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200929_pick_num)
 - [예산](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200930_budget)
+- [정수 제곱근 판별](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201001_sqrt)
 
 ### 2단계
 
