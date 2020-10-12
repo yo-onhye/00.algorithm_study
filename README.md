@@ -67,3 +67,4 @@ JavaScript/Java
 - [Compare the Triplets](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201007_compare)
 - [Plus Minus](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201008_plus_minus)
 - [Staircase](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201009_staircase)
+- [Mini-Max Sum](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201012_mini_max)
