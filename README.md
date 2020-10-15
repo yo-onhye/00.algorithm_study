@@ -69,4 +69,5 @@ JavaScript/Java
 - [Staircase](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201009_staircase)
 - [Mini-Max Sum](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201012_mini_max)
 - [Birthday Cake Candles](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201013_candles)
-- [Diagonal Difference](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201014_diagonal difference)
+- [Diagonal Difference](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201014_diagonal_difference)
+- [Time Conversion](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201015_time_conversion)
