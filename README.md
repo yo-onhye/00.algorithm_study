@@ -71,3 +71,4 @@ JavaScript/Java
 - [Birthday Cake Candles](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201013_candles)
 - [Diagonal Difference](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201014_diagonal_difference)
 - [Time Conversion](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201015_time_conversion)
+- [Grading Students](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201016_grading_students)
