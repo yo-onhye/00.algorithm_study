@@ -1,55 +1,57 @@
-# Grading Students
+# Breaking the Records
 
-https://www.hackerrank.com/challenges/grading/problem
+https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
 ### 문제 설명
 
-HackerLand University has the following grading policy:
+Maria plays college basketball and wants to go pro. Each season she maintains a record of her play. She tabulates the number of times she breaks her season record for most points and least points in a game. Points scored in the first game establish her record for the season, and she begins counting from there.
 
-- Every student receives a **_grade_** in the inclusive range from **0** to **100**.
-- Any **_grade_** less than **40** is a failing grade.
+For example, assume her scores for the season are represented in the array scores = [12, 24, 10, 24]. Scores are in the same order as the games played. She would tabulate her results as follows:
 
-Sam is a professor at the university and likes to round each student's **_grade_** according to these rules:
+```
+                                 Count
+Game  Score  Minimum  Maximum   Min Max
+ 0      12     12       12       0   0
+ 1      24     12       24       0   1
+ 2      10     10       24       1   1
+ 3      24     10       24       1   1
+ 
+```
 
-- If the difference between the **_grade_** and the next multiple of **5** is less than **3**, round **_grade_** up to the next multiple of **5**.
-- If the value of **_grade_** is less than **38**, no rounding occurs as the result will still be a failing grade.
-
-**Examples**
-
-- **_grade = 84_** round to **_85_** (85 - 84 is less than 3)
-- **_grade = 29_** do not round (result is less than 40)
-- **_grade = 57_** do not round (60 - 57 is 3 or higher)
-
-Given the initial value of  **_grade_** for each of Sam's  students, write code to automate the rounding process.
+Given the scores for a season, find and print the number of times Maria breaks her records for most and least points scored during the season.
 
 **Function Description**
 
-Complete the function *gradingStudents* in the editor below.
+Complete the *breakingRecords* function in the editor below. It must return an integer array containing the numbers of times she broke her records. Index  is for breaking *most points* records, and index  is for breaking *least points* records.
 
-gradingStudents has the following parameter(s):
+breakingRecords has the following parameter(s):
 
-- _int grades[n]_: the grades before rounding
-
-**Returns**
-
-- _int[n]_: the grades after rounding as appropriate
+- *scores*: an array of integers
 
 **Input Format**
 
-The first line **contains a single integer, \***n**_, the number of students. Each line _**i**_ of the _**n**_ subsequent lines contains a single integer, _**grade[i]\*\*\*.
+The first line contains an integer , the number of games. The second line contains  space-separated integers describing the respective values of *score0 ,score1,.....scoren - 1 .*
 
 ### 문제 풀이
 
 ```jsx
-function gradingStudents(grades) {
-	for (let i of grades) {
-		if (i < 38 || i % 5 < 3) {
-			console.log(i);
-		} else {
-			let nRound = 5 - (i % 5);
-			console.log(i + nRound);
-		}
+function breakingRecords(scores) {
+	let min = scores[0],
+			max = scores[0],
+			minRecord = 0,
+			maxRecord = 0;
+	
+	for (let i of scores) {
+			if (max < i) {
+					max = i;
+					maxRecord++;
+			}
+			else if (i < min) {
+					min = i;
+					minRecord++;
+			}
 	}
-	// run time 에러가 뜸..
+	
+	return [maxRecord, minRecord];
 }
 ```
