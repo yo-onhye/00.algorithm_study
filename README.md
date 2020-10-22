@@ -74,4 +74,5 @@ JavaScript/Java
 - [Grading Students](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201016_grading_students)
 - [Breaking the Records](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201019_breaking_records)
 - [Bill Division](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201020_bill_division)
-- [Sub-array Division](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201021_subarray_ivision)
+- [Sub-array Division](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201021_subarray_division)
+- [Sales by Match](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201022_sales_by_match)
