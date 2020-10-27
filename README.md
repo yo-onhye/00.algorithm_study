@@ -53,6 +53,7 @@ JavaScript/Java
 - [정수 내림차순으로 배치하기 & 짝수와 홀수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201002_number)
 - [자릿수 더하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201003_add)
 - [체육복](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201004_gym_suit)
+- [최대공약수와 최소공배수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201027_gcd_lcm)
 
 ### 2단계
 
