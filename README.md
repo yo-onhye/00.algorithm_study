@@ -54,6 +54,7 @@ JavaScript/Java
 - [자릿수 더하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201003_add)
 - [체육복](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201004_gym_suit)
 - [최대공약수와 최소공배수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201027_gcd_lcm)
+- [3진법 뒤집기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201028_ternary_system)
 
 ### 2단계
 
