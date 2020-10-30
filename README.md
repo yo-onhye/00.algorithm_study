@@ -62,6 +62,7 @@ JavaScript/Java
 - [위장](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200812_hash03)
 - [가장 큰 수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/200814_sort02)
 - [큰 수 만들기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201029_big_number)
+- [멀쩡한 사각형](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201030_square)
 
 ---
 
