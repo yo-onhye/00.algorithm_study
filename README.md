@@ -66,6 +66,7 @@ JavaScript/Java
 - [프린터](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201102_printer)
 - [N개의 최소공배수](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201103_n_lcm)
 - [구명보트](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201104_lifeboat)
+- [문자열 압축](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201105_compression)
 
 ---
 
