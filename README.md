@@ -70,6 +70,7 @@ JavaScript/Java
 - [문자열 압축](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201105_compression)
 - [124 나라](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201110_124_country)
 - [짝지어 제거하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201111_arr_remove)
+- [이진 변환 반복하기](https://github.com/yo-onhye/00.algorithm_study/tree/master/programers/201112_repeat_binary)
 
 ---
 
