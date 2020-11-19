@@ -46,7 +46,5 @@ function countingValleys(steps, path) {
         }
     }
     return nVally;
-	// 지면을 체크하기 위해 nHeight으로 지상/지하를 체크
-	// 지면에서 올라가는 D일 경우 nVally의 값을 증가시켜 골짜기의 수 카운팅
 }
 ```
