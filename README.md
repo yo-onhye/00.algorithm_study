@@ -104,3 +104,4 @@ JavaScript/Java
 -[Beautiful Days at the Movies](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201127_beautiful_days)
 -[Designer PDF Viewer](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201130_pdf_viewer)
 -[Picking Numbers](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201201_picking_numbers)
+-[Repeated String](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201202_repeated_string)
