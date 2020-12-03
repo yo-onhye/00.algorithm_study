@@ -1,55 +1,46 @@
-# Repeated String
+# Angry Professor
 
-https://www.hackerrank.com/challenges/repeated-string/problem
+https://www.hackerrank.com/challenges/angry-professor/problem
 
 ### 문제 설명
 
-Lilah has a string, **s**, of lowercase English letters that she repeated infinitely many times.
+A Discrete Mathematics professor has a class of students. Frustrated with their lack of discipline, the professor decides to cancel class if fewer than some number of students are present when class starts. Arrival times go from on time (**arrivalTime ≤ 0**) to arrived late (**arrivalTime > 0**).
 
-Given an integer, **n**, find and print the number of letter a's in the first **n** letters of Lilah's infinite string.
+Given the arrival time of each student and a threshhold number of attendees, determine if the class is cancelled.
 
-For example, if the string **s = 'abcac'** and **n = 10**, the substring we consider is **abcacabcac**, the first **10** characters of her infinite string. There are **4** occurrences of a in the substring.
+**Example**
+
+**n = 5**
+
+**k = 3**
+
+**a = [-2, -1, 0, 1, 2]**
+
+The first **3** students arrived on. The last **2** were late. The threshold is **3** students, so class will go on. Return `YES`.
+
+**Note:** Non-positive arrival times (**a[i] ≤ 0**) indicate the student arrived early or on time; positive arrival times (**a[i] > 0**) indicate the student arrived **a[i]** minutes late.
 
 **Function Description**
 
-Complete the repeatedString function in the editor below. It should return an integer representing the number of occurrences of a in the prefix of length **n** in the infinitely repeating string.
+Complete the *angryProfessor* function in the editor below. It must return `YES` if class is cancelled, or `NO` otherwise.
 
-repeatedString has the following parameter(s):
+angryProfessor has the following parameter(s):
 
-- s: a string to repeat
-- n: the number of characters to consider
+- *int k*: the threshold number of students
+- *int a[n]*: the arrival times of the **n** students
 
-**Input Format**
-
-The first line contains a single string, **s**.
-
-The second line contains an integer, **n**.
 ### 문제 풀이
 
 ```jsx
-function repeatedString(s, n) {
-	let nCnt = 0;
-	if(s.length == 1 && s != 'a') {
-		return 0;
-	} else if(s.length == 1 && s == 'a') {
-		return n;
-	} else if(s.length > n) {
-		for(let i of s) {
-			if(i == 'a') nCnt++;
-		}
-		return nCnt;
-	} else {
-		let sNew = '';
+function angryProfessor(k, a) {
+	let aTemp = a.sort(function(a, b) {  return a - b;}),
+			nCnt = 0;
 
-		for(let i = 0; i < parseInt(n/s.length); i++){
-			sNew = sNew + s;
+	for(let i of aTemp){
+		if(i <= 0) {
+			nCnt++;
 		}
-		sNew = sNew + s.slice(0, parseInt(n%s.length));
-
-		for(let j of sNew) {
-			if(j == 'a') nCnt++;
-		}
-		return nCnt; 
 	}
+	return nCnt>=k ? "NO" : "YES"; 
 }
 ```
