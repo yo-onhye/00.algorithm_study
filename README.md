@@ -106,3 +106,4 @@ JavaScript/Java
 -[Picking Numbers](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201201_picking_numbers)
 -[Repeated String](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201202_repeated_string)
 -[Angry Professor](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201203_angry_professor)
+-[Sequence Equation](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201204_sequence_equation)
