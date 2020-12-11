@@ -111,3 +111,4 @@ JavaScript/Java
 -[Find Digits](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201208_find_digits)
 -[Cut the sticks](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201209_cut_sticks)
 -[Equalize the Array](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201210_equalize_array)
+-[Save the Prisoner!](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201211_save_prisoner)
