@@ -117,3 +117,4 @@ JavaScript/Java
 -[Marc’s Cakewalk](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201216_cakewalk)
 -[Fair Rations](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201217_fair_rations)
 -[Beautiful Triplets](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201218_beautiful_triplets)
+-[Minimum Distances](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201221_minimum_distances)

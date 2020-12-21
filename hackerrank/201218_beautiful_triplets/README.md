@@ -29,19 +29,22 @@ The first line contains *2* space-separated integers *n* and *d*, the lengt
 ### 문제 풀이
 
 ```jsx
-function beautifulTriplets(d, arr) {
-    let nCount = 0;
+function minimumDistances(a) {
+    let nMin = Math.pow(10,1000);
+    let oTemp = {};
 
-    for(let i = 0; i < arr.length-2; i++) {
-        let nVal = arr[i] + d,
-            nVal2 = arr[i] + d * 2,
-            nCheck = 0;
-  
-        for(let j = i; j < arr.length; j++) {
-            if(arr[j] == nVal || arr[j] == nVal2) nCheck++;
+    for (let i = 0; i < a.length; i++){
+        if (oTemp[a[i]]){
+            let nGap = (i - (oTemp[a[i]] -1));
+
+            if (nGap < nMin){
+                nMin = nGap;
+            }
+            oTemp[a[i]] = i+1;
+        } else{
+            oTemp[a[i]] = i+1;
         }
-        if(nCheck == 2) nCount++;
     }
-    return nCount;
+    return nMin == 'Infinity' ? -1 : nMin;
 }
 ```
