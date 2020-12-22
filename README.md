@@ -118,3 +118,4 @@ JavaScript/Java
 -[Fair Rations](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201217_fair_rations)
 -[Beautiful Triplets](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201218_beautiful_triplets)
 -[Minimum Distances](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201221_minimum_distances)
+-[Taum and B'day](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201222_bday)
