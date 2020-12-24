@@ -120,3 +120,4 @@ JavaScript/Java
 -[Minimum Distances](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201221_minimum_distances)
 -[Taum and B'day](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201222_bday)
 -[Modified Kaprekar Numbers](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201223_kaprekar_numbers)
+-[Utopian Tree](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201224_utopian_tree)
