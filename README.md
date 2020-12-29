@@ -122,3 +122,4 @@ JavaScript/Java
 -[Modified Kaprekar Numbers](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201223_kaprekar_numbers)
 -[Utopian Tree](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201224_utopian_tree)
 -[Library Fine](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201228_library_fine)
+-[Chocolate Feast](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201229_chocolate_feast)
