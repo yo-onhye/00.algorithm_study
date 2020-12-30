@@ -123,3 +123,4 @@ JavaScript/Java
 -[Utopian Tree](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201224_utopian_tree)
 -[Library Fine](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201228_library_fine)
 -[Chocolate Feast](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201229_chocolate_feast)
+-[Halloween Sale](https://github.com/yo-onhye/00.algorithm_study/tree/master/hackerrank/201230_halloween_sale)
