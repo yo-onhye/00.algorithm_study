@@ -25,13 +25,18 @@ In some cases, there will be an array containing a negative number as the first 
 
 ```jsx
 function addArrays(array1, array2) {
-  let aTotal = (parseInt(array1.join('')) + parseInt(array2.join(''))).toString().split(''),
-      aResult = [];
+    let arrayToNumber1 = array1.length > 0 ? parseInt(array1.join('')) : 0,
+        arrayToNumber2 = array2.length > 0 ? parseInt(array2.join('')) : 0,
+        exp = ((arrayToNumber1 + arrayToNumber2) != 0) ? (arrayToNumber1 + arrayToNumber2).toString().split("") : [],
+        result = [];
 
-  for(let i of aTotal) {
-    aResult.push(parseInt(i));
-  }
+    if (exp[0] == "-") {
+      exp[1] = parseInt("-" + exp[1]);
+      exp.shift();
+    }
 
-  return aResult;
+    result = exp.map(Number);
+
+    return result;
 }
 ```
