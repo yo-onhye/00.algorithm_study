@@ -134,3 +134,4 @@ JavaScript/Java
 ## codewars
 
 - [Sum two arrays](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210105_sum_arrays)
+- [SumFibs](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210106_sumfibs)
