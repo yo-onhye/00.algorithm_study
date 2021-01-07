@@ -133,5 +133,7 @@ JavaScript/Java
 
 ## codewars
 
+### 6kyu
 - [Sum two arrays](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210105_sum_arrays)
 - [SumFibs](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210106_sumfibs)
+- [Meeting](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210107_meeting)
