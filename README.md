@@ -140,3 +140,4 @@ JavaScript/Java
 - [IQ Test](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210108_iq_test)
 - [Is a number prime?](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210111_prime_number)
 - [Goldbach's conjecture (Prime numbers)](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210112_goldbachs_conjecture)
+- [Take a Ten Minute Walk](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210113_ten_minute_walk)
