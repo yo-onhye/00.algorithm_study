@@ -143,3 +143,4 @@ JavaScript/Java
 - [Take a Ten Minute Walk](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210113_ten_minute_walk)
 -[Message Validator](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210114_message_validator)
 -[Highest Scoring Word](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210115_highest_word)
+-[Find the unique number](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210118_unique_number)
