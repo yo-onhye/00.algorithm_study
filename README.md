@@ -145,3 +145,4 @@ JavaScript/Java
 -[Highest Scoring Word](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210115_highest_word)
 -[Find the unique number](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210118_unique_number)
 -[String Breakers](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210119_string_breakers)
+- [Loose Change](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210120_loose_change)
