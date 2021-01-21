@@ -146,3 +146,4 @@ JavaScript/Java
 -[Find the unique number](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210118_unique_number)
 -[String Breakers](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210119_string_breakers)
 - [Loose Change](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210120_loose_change)
+- [Split Strings](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210121_split_strings)
