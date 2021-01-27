@@ -150,3 +150,4 @@ JavaScript/Java
 - [Your order, please](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210122_your_order)
 - [Consecutive Count](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210125_consecutive_count)
 - [WeIrD StRiNg CaSe](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210126_weird_string_case)
+- [Detect Pangram](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210127_detect_pangram)
