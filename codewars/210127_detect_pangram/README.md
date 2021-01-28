@@ -20,5 +20,5 @@ function isPangram(string){
     if (sText.includes(alpha)){nResult++;}
   }
   return nResult === nAlphabet.length ? true : false;
-}}
+}
 ```
