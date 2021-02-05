@@ -157,3 +157,4 @@ JavaScript/Java
 - [Stop gninnipS My sdroW!](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210202_spin_words)
 - [Multiples of 3 or 5](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210203_multiples_3_5)
 - [Replace With Alphabet Position](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210204_replace_alphabet)
+- [Find The Parity Outlier](https://github.com/yo-onhye/00.algorithm_study/tree/master/codewars/210205_find_outlier)
